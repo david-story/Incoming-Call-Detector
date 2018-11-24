@@ -15,8 +15,9 @@ No dependencies, uses standard Eagle Library parts. Creating in Eagle Version 9.
 
 ### Installation 
 1) Download files either from site or by using git clone https://github.com/david-story/IncomingCallDetector.git
-2) Open project file
-3) Done
+2) Open a new Eagle Project
+3) Drag and Drop the schematic and board files to your new project
+4) You can now edit and/or create gerber files.
 
 ### Schematic
 ![alt text](https://github.com/david-story/Incoming-Call-Detector/blob/master/resources/schematic.png)
