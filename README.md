@@ -1,4 +1,4 @@
-# IncomingCallDetector
+# Incoming-Call-Detector
 Based on circuit from http://www.circuitstoday.com/mobile-incoming-call-indicator
 PCB created by David Story and David House for soldering workshop.
 
