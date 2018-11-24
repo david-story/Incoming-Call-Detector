@@ -1,6 +1,8 @@
 # IncomingCallDetector
 Based on circuit from http://www.circuitstoday.com/mobile-incoming-call-indicator
 PCB created by David Story and David House for soldering workshop.
+![alt text](https://github.com/david-story/Incoming-Call-Detector/blob/master/resources/board.png)
+
 
 ### General
 PCB created in Eagle for a small incoming call detector for your cellphone. This board was created to help teach students introductory soldering with through-hole components. There will be another repository shortly with a board for SMD soldering practice.
